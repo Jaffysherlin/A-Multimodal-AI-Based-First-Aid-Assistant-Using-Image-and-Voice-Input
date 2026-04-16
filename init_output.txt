@@ -1,0 +1,2 @@
+npm error Cannot read properties of undefined (reading 'replace')
+npm error A complete log of this run can be found in: C:\Users\USER\AppData\Local\npm-cache\_logs\2026-01-27T04_40_02_065Z-debug-0.log
