@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AidVision - AI First Aid Assistant
 
 AidVision is a research-first emergency assistant that uses a **Multi-Model Intelligence Pipeline** (BERT + MobileNet + Qwen2.5:0.5B) to provide immediate medical guidance through edge-based image and text analysis.
@@ -49,3 +50,6 @@ AidVision is a research-first emergency assistant that uses a **Multi-Model Inte
 - **Health Profile**: Store medical conditions, allergies, and emergency contacts.
 - **Incident History**: Keep track of all previous medical assessments and guidance steps.
 - **Training Guides**: Interactive guides for CPR, bleeding, burns, and more.
+=======
+# A-Multimodal-AI-Based-First-Aid-Assistant-Using-Image-and-Voice-Input
+>>>>>>> f5e9f4bc6a339055a7581c6b179fe8170d6688b6
